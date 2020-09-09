@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head> 
-    <title> KPOP-BTS </title>
+    <title> KPOP-BTS</title>
   <body style="background-color:purple;">
     </head>
     <h1><b> BTS</b></h1>
